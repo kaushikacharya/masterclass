@@ -4,7 +4,7 @@
 2. [Build an app like Uber using High-Level Design](#build_app_uber_hld)
 
 
-## Simplifying Data Sciene Interviews <a name="simplifying-data-sciene-interviews"></a>
+## Simplifying Data Science Interviews <a name="simplifying-data-sciene-interviews"></a>
 - [Notes](./notes/SimplifyDataScienceInterviews.pdf)
 - [Events page](https://www.scaler.com/event/simplify-data-science-interviews-101/)
 - Instructor: Srikanth Varma
