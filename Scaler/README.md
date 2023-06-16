@@ -73,3 +73,9 @@
                 - 5 minute short video.
             - Share it with CV for the job.
             - This could become the prime discussion point in the interview.
+
+## SDE Jobs Outside India
+- [Notes](./notes/SDE_Jobs_Outside_India.pdf)
+- [Events page](https://www.scaler.com/event/sde-jobs-outside-india-/)
+- Instructor: Anshuman Singh
+- Date: June 13, 2023
