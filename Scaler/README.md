@@ -5,6 +5,7 @@
 3. [Learn how to Land Data Science Jobs Outside India](#learn-how-to-land-data-science-jobs-outside-india)
 4. [SDE Jobs Outside India](#sde-jobs-outside-india)
 5. [Multiprocessing & Multithreading in Python (for ML/AI)](#multiprocessing--multithreading-in-python-for-mlai)
+6. [How to become a Data Scientist at Microsoft?](#how-to-become-a-data-scientist-at-microsoft)
 
 ## Simplifying Data Science Interviews
 
@@ -246,3 +247,31 @@
   - Libraries:
     - [Numba](https://numba.pydata.org/)
     - [dask](https://www.dask.org/)
+
+## How to become a Data Scientist at Microsoft?
+
+- [Notes](./notes/How_to_become_data_scientist_at_Microsoft.pdf)
+- [Events page](https://www.scaler.com/event/how-to-become-a-data-scientist-at-microsoft-/)
+- INstructor: [Shivank Agrawal](https://www.linkedin.com/in/shivankagrawal/)
+- Date: July 22, 2023
+- Contents:
+  - Company pays to the person who makes the most impact.
+    - Analogy: Lead actor paid the most from the movie.
+  - Roles
+    - Refer to [Srikanth Varma Chekuri's session](#simplifying-data-science-interviews)
+    - Data Analyst
+      - Algo trading analyst
+      - Predicting future revenue of a company from its annual report.
+    - Data Scientist:
+      - Machine Learning / Deep Learning
+        - Mathematics intensive
+    - Machine Learning Engineer
+      - Instructor shares that he used to write customized machine learning algorithms from scratch:
+        - e.g. Linear regression
+  - Recommended readings:
+    - Company's data science blogs
+      - [Uber](https://www.uber.com/en-US/blog/ai/)
+      - [Google AI](https://ai.googleblog.com/)
+      - [Amazon Science](https://www.amazon.science/blog)
+    - [MIT's Introduction To Probability And Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/)
+      - [Statistics and Data Science program](https://www.edx.org/micromasters/mitx-statistics-and-data-science)

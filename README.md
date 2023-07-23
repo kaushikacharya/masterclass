@@ -6,3 +6,4 @@
   - [Learn how to Land Data Science Jobs Outside India](./Scaler/README.md#learn-how-to-land-data-science-jobs-outside-india)
   - [SDE Jobs Outside India](./Scaler/README.md#sde-jobs-outside-india)
   - [Multiprocessing & Multithreading in Python (for ML/AI)](./Scaler/README.md#multiprocessing--multithreading-in-python-for-mlai)
+  - [How to become a Data Scientist at Microsoft?](./Scaler/README.md#how-to-become-a-data-scientist-at-microsoft)
